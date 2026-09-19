@@ -1,0 +1,8 @@
+{
+  "name": "Bóc Tách Tiêu Đề Hồ Sơ Bệnh Binh",
+  "description": "Ứng dụng bóc tách từng trang tệp PDF tài liệu bệnh binh viết bằng bút mực, bút bi thành tiêu đề hồ sơ chuẩn hóa và xuất Excel",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
